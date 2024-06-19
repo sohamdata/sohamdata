@@ -1,7 +1,7 @@
 I'm Soham, a computer engineering student from India. Here's some info about me!
 
 Work Experience:
-- **Software Engineer intern at [Swipe (S21)](https://getswipe.in/)** - Full-stack development on the Product team. [June 2024 - Present]
+- **Software Engineer intern at [Swipe (YC S21)](https://getswipe.in/)** - Full-stack development on the Product team. [June 2024 - Present]
 - **Software Engineer intern at [VarsityPro](https://varsitypro.club/)** - Frontend development on the Product team. [October 2023 - May 2024]
 
 Interests:
