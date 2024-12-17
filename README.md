@@ -5,7 +5,8 @@ I'm Soham, a Software Developer & Final Year Computer Engineering student from I
 LinkedIn: https://www.linkedin.com/in/sohamdata/
 
 **Work Experience:**
-- **Software Developer intern at [Swipe (YC S21)](https://getswipe.in/)** - Full-stack development on the Product team. [June 2024 - Present]
+- **Software Developer at [Swipe (YC S21)](https://getswipe.in/)** - Full-stack development on the Product team. [December 2024 - Present]
+- **Software Developer intern at [Swipe (YC S21)](https://getswipe.in/)** - Full-stack development on the Product team. [June 2024 - November 2024]
 - **Software Developer intern at [VarsityPro](https://varsitypro.club/)** - Frontend development on the Product team. [October 2023 - May 2024]
 
 Interests:
