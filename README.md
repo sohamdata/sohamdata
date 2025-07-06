@@ -1,4 +1,4 @@
-I'm Soham, a Software Developer with 1+ years of experience, a Final Year Computer Engineering student from India. Here's some info about me!
+I'm Soham, a Software Developer with over 1 year of experience in FinTech, E-commerce and EduTech. Computer Engineering Grad from India. Here's some info about me!
 
 **Focus**: Full-Stack development (React.js, Flask, SQL/NoSQL databases, Django, Go, WebSockets, AWS), open to other technologies as well.
 
