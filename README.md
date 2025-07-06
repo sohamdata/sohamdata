@@ -1,4 +1,4 @@
-I'm Soham, a Software Developer & Final Year Computer Engineering student from India. Here's some info about me!
+I'm Soham, a Software Developer with 1+ years of experience, a Final Year Computer Engineering student from India. Here's some info about me!
 
 **Focus**: Full-Stack development (React.js, Flask, SQL/NoSQL databases, Django, Go, WebSockets, AWS), open to other technologies as well.
 
@@ -12,5 +12,3 @@ LinkedIn: https://www.linkedin.com/in/sohamdata/
 Interests:
 - Building products, improving them in a feedback loop.
 - automobiles, sports, nature, whatever keeps me interested.
-
-[![@sohamdata's Holopin board](https://holopin.me/sohamdata)](https://holopin.io/@sohamdata)
