@@ -2,7 +2,9 @@ I'm Soham, a Software Developer with over 1 year of experience in FinTech, E-com
 
 **Focus**: Full-Stack development (React.js, Flask, SQL/NoSQL databases, Django, Go, WebSockets, AWS), open to other technologies as well.
 
-LinkedIn: https://www.linkedin.com/in/sohamdata/
+LinkedIn: https://www.linkedin.com/in/sohamdata
+
+Resume: https://sohamdata.vercel.app/resume
 
 **Work Experience:**
 - **SDE 1 at [Swipe (YC S21)](https://getswipe.in/)** - Full-stack development on the Product team. [December 2024 - Present]
